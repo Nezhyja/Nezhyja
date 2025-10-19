@@ -1,7 +1,21 @@
 <h1 align="center">Hi 👋, I'm Emilien a.k.a Mhugninn</h1>
 <h3 align="center">A passionate junior backend developer</h3>
 
-- 🔭 I’m currently working on **E-commerce**
+- 🔭 I’m currently working on **e-commerce**
+
+- 🌱 I’m currently learning **Laravel**
+
+- 🤝 I’m looking for help with **Laravel**
+
+- 👨‍💻 All of my projects are available at [In progress](In progress)
+
+- 💬 Ask me about **PHP (not actually)**
+
+- 📫 How to reach me **soon**
+
+- 📄 Know about my experiences [Junior working for it](Junior working for it)
+
+- ⚡ Fun fact **I'm learning PHP even when everyone says I shouldn't**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
